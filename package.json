@@ -1,7 +1,7 @@
 {
   "name": "shopify-mcp",
-  "version": "1.0.7",
-  "description": "MCP Server for Shopify API, enabling interaction with store data through GraphQL API",
+  "version": "1.1.0",
+  "description": "MCP Server for Shopify API with ShopifyQL analytics, enabling deep interaction with store data through GraphQL API",
   "main": "dist/index.js",
   "bin": "dist/index.js",
   "type": "module",
@@ -19,6 +19,8 @@
     "mcp",
     "model-context-protocol",
     "graphql",
+    "shopifyql",
+    "analytics",
     "ai",
     "llm",
     "claude"
